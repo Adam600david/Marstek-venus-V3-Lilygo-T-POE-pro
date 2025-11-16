@@ -5,8 +5,6 @@ Tested on lilygo T-POE-pro // no wifi
 
 44000 : Charging Cutoff Capacity
 44001 : Discharging Cutoff Capacity
-44002 : Max. Charge Power
-44003 : Max. Discharge Power
 41010 : power_restriction_discharge
 32102 : Battery Power -> replaced by 30001 in yaml file
 
