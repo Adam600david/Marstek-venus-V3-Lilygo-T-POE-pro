@@ -1,8 +1,15 @@
+Yaml adjusted for Marstek venusE V3:
+
 Registers not working after testing for Venus E V3:
 Tested on lilygo T-POE-pro // no wifi 
+
 44000 : Charging Cutoff Capacity
 44001 : Discharging Cutoff Capacity
 44002 : Max. Charge Power
 44003 : Max. Discharge Power
 41010 : power_restriction_discharge
 32102 : Battery Power -> replaced by 30001 in yaml file
+
+Adjusted registers:
+35010 : Max Cell Temperature -> multiply: 0.1
+35011 : Min Cell Temperature -> multiply: 0.1
