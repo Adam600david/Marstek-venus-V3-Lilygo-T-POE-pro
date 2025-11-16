@@ -1,0 +1,8 @@
+Registers not working after testing for Venus E V3:
+Tested on lilygo T-POE-pro // no wifi 
+44000 : charging cuoff capacity
+44001 : Discharging cutoff capacity
+44002 : Max charge power
+44003 : Max discharge power
+41010 : 
+32102 : Battery power -> replaced by 30001 in yaml file
