@@ -599,7 +599,7 @@ sensor:
     icon: mdi:factory
     modbus_controller_id: mt
     register_type: holding
-    address: 31102
+    address: 30204
     value_type: U_WORD
     accuracy_decimals: 0
     skip_updates: 60 # 5 minutes
